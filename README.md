@@ -1,6 +1,6 @@
 Calculator - Simple Combination
 
- // Simple Combination Formula: n!/((n-m)! * m!) 
+                // Simple Combination Formula: n!/((n-m)! * m!) 
                 // ===== Factorial can be calculate using WHILE (Factorial) or FOR (Factorial1)            
                 // Console.WriteLine( Factorial(n)/(Factorial(n-m)*Factorial(m)));
 
